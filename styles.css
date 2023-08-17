@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+.container {
+    display: inline-block;
+}
+
+button {
+    display: inline-block;
+    margin: 20px auto;
+}
